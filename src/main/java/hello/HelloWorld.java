@@ -5,7 +5,8 @@ public class HelloWorld {
 
         System.out.println("Hello World");
     }
-    public String testMethod(String name){
+
+    public String testMethod(String name) {
 
         return name;
     }
