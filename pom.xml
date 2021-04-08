@@ -72,10 +72,8 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <addClasspath>true</addClasspath>
-                            <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                mtk.CompanyRunner
+                                hello.HelloWorld
                             </mainClass>
                         </manifest>
                     </archive>
